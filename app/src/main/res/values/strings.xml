@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Moje karty</string>
+    <string name="code_EAN13">Numer kodu kreskowego</string>
+    <string name="button_next">Następny</string>
+    <string name="button_previous">Poprzedni</string>
+    <string name="button_save">Zapisz</string>
+    <string name="dialog_add_cart">Dodaj kartę</string>
+    <string name="edit_name">Nazwa</string>
+    <string name="button_cancel">Anuluj</string>
+    <string name="validate_required">To pole jest wymagane</string>
+    <string name="validate_edit_code">Kod musi mieć 8 lub 13 cyfr</string>
+    <string name="menu_settings_add">Dodaj</string>
+    <string name="menu_settings_edit">Edytuj</string>
+    <string name="menu_settings_delete">Usuń</string>
+    <string name="button_delete">Usuń</string>
+    <string name="text_view_confirm_delete">Czy napewno chcesz usunąć dane o tej karcie?</string>
+</resources>
